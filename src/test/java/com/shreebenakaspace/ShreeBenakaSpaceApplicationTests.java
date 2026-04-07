@@ -1,4 +1,4 @@
-package com.ShreeBenakaSpace.ShreeBenakaSpace;
+package com.shreebenakaspace;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -9,5 +9,4 @@ class ShreeBenakaSpaceApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
