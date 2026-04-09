@@ -1,4 +1,4 @@
-package com.ShreeBenakaSpace.ShreeBenakaSpace;
+package com.shreebenakaspace;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
